@@ -1,0 +1,53 @@
+.divider {
+  height: 10px;
+}
+
+/* Hero Styles */
+.hero-img {
+  background-image: url('https://inspirationfeeed.files.wordpress.com/2013/08/racespin1.gif');
+  background-position: center;
+  background-size: contain;
+  height: 500px;
+}
+/* Column Styles */
+.boxes {
+  height: 200px;
+}
+
+.box1 {
+  height: 150px;
+}
+
+.box2 {
+  height: 150px;
+}
+
+.box3 {
+  height: 150px;
+}
+
+.gray-bkg {
+  background-color: #444;
+  height: 500px;
+}
+
+.blue-bkg {
+  background-color: #0001fe;
+  height: 250px;
+  padding: 5px;
+}
+
+.orange-bkg {
+  background-color: #ff8d01;
+  height: 250px;
+}
+
+.green-bkg {
+  background-color: #028d01;
+  height: 250px;
+}
+
+.yellow-bkg {
+  background-color: #ffff31;
+  height: 250px;
+}
